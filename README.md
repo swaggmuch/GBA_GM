@@ -8,4 +8,4 @@ A fast GBA emulator for the iPhone/iPod Touch based on version 1.8.0 of [gpSPhon
 </div>
 __NOTE: MacBuildServer is under heavy load right now. If you're having trouble downloading the app, you'll just have to wait. I have no control over it unfortunately.__
 
-__NOTE: FINAL RELESE.
+<p><strong>NOTE: FINAL RELESE.
